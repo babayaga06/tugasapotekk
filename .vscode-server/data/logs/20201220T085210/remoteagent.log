@@ -22,3 +22,4 @@
 [2020-12-20 08:56:46.268] [remoteagent] [info] [127.0.0.1][91df67cb][ExtensionHostConnection] <164208> Launched Extension Host Process.
 [2020-12-20 08:56:50.102] [remoteagent] [error] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
 [2020-12-20 09:01:45.088] [remoteagent] [info] New EH opened, aborting shutdown
+[2020-12-20 10:31:40.250] [remoteagent] [info] [127.0.0.1][fb130ef6][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...

@@ -33,3 +33,7 @@ Cancelling previous shutdown timeout
 [08:56:50] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
 New EH opened, aborting shutdown
 [09:01:45] New EH opened, aborting shutdown
+[10:31:40] [127.0.0.1][fb130ef6][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+Error: Unexpected SIGPIPE
+    at process.<anonymous> (/home/ubuntu/.vscode-server/bin/d2e414d9e4239a252d1ab117bd7067f125afd80a/out/bootstrap.js:5:377)
+    at process.emit (events.js:223:5)

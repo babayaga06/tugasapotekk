@@ -159,3 +159,26 @@ cd
 exit
 clear
 \
+git init
+git add .
+git status
+git commit -m "tugas apotek"
+git branch -M main
+git remote -v
+git reote remove origin
+git remote remove origin
+git remote add origin git@github.com:babayaga06/tugasapootek.git
+git push -u origin main
+exit
+git init
+git add .
+git status
+git branch -M main
+git remote remove origin
+git remote add origin git@github.com:babayaga06/apotek1.git
+git push -u origin main
+git push -u origin master
+git remote remove origin
+git remote add origin git@github.com:babayaga06/apoteek.git
+git push -u origin main
+git push -u origin master
