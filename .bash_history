@@ -116,3 +116,26 @@ git push -u origin main
 clear
 cd
 exit
+git init
+git add .
+git status
+git commit -m "tugas apotek"
+git branch -M main
+git status
+git remote add origin git@github.com:babayaga06/tugasapotek.git
+git push -u origin main
+git push -u origin master
+git init
+git add .
+status
+git status
+git commit -m "tugas apootek"
+git branch -M main
+git status
+git remote add origin git@github.com:babayaga06/tugas-apotek.git
+git remote -v
+git remote remove origin
+git remote add origin git@github.com:babayaga06/tugas-apotek.git
+git push -u origin main
+git push -u origin master
+exit
