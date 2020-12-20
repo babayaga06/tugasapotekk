@@ -1,0 +1,216 @@
+
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+Extension host agent listening on 37259
+
+[05:20:48] Extension host agent started.
+[05:20:49] [127.0.0.1][59631445][ManagementConnection] New connection established.
+[05:20:49] [127.0.0.1][4cd43d4e][ExtensionHostConnection] New connection established.
+bash: cannot set terminal process group (-1): Inappropriate ioctl for device
+bash: no job control in this shell
+[05:20:49] [127.0.0.1][4cd43d4e][ExtensionHostConnection] <29112> Launched Extension Host Process.
+[05:20:50] Listing 0 persistent terminals, 0 total terminals
+[05:22:52] [127.0.0.1][59631445][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[05:22:53] [127.0.0.1][4cd43d4e][ExtensionHostConnection] <29112> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[05:22:53] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[05:23:14] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[05:23:14] Cancelling previous shutdown timeout
+[05:23:16] [127.0.0.1][471738e8][ManagementConnection] New connection established.
+[05:23:16] [127.0.0.1][59ee5aad][ExtensionHostConnection] New connection established.
+[05:23:16] [127.0.0.1][59ee5aad][ExtensionHostConnection] <29448> Launched Extension Host Process.
+[05:23:17] Listing 0 persistent terminals, 0 total terminals
+[05:23:17] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/ubuntu/laravel/.vscode'
+[05:23:20] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+New EH opened, aborting shutdown
+[05:28:14] New EH opened, aborting shutdown
+[05:29:13] [127.0.0.1][471738e8][ManagementConnection] The client has reconnected.
+[05:37:17] [127.0.0.1][2ab2977a][ManagementConnection] New connection established.
+[05:37:17] [127.0.0.1][cfbcf3cc][ExtensionHostConnection] New connection established.
+[05:37:17] [127.0.0.1][cfbcf3cc][ExtensionHostConnection] <31090> Launched Extension Host Process.
+[05:37:18] Listing 0 persistent terminals, 0 total terminals
+[06:14:31] [127.0.0.1][2ab2977a][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[06:14:33] [127.0.0.1][cfbcf3cc][ExtensionHostConnection] <31090> Extension Host Process exited with code: 0, signal: null.
+[06:16:39] [127.0.0.1][471738e8][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[06:16:40] [127.0.0.1][59ee5aad][ExtensionHostConnection] <29448> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[06:16:40] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[06:16:56] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[06:16:56] Cancelling previous shutdown timeout
+[06:16:57] [127.0.0.1][78228435][ManagementConnection] New connection established.
+[06:16:57] [127.0.0.1][895c1eb7][ExtensionHostConnection] New connection established.
+[06:16:57] [127.0.0.1][895c1eb7][ExtensionHostConnection] <38290> Launched Extension Host Process.
+[06:16:58] Listing 0 persistent terminals, 0 total terminals
+[06:16:58] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/ubuntu/laravel/.vscode'
+[06:17:01] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+Got delay-shutdown request while in shutdown timeout, delaying
+[06:17:55] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[06:17:55] Cancelling previous shutdown timeout
+[06:17:57] [127.0.0.1][78228435][ManagementConnection] The client has reconnected.
+[06:17:57] [127.0.0.1][895c1eb7][ExtensionHostConnection] The client has reconnected.
+Got delay-shutdown request while in shutdown timeout, delaying
+[06:19:58] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[06:19:58] Cancelling previous shutdown timeout
+[06:19:59] [127.0.0.1][78228435][ManagementConnection] The client has reconnected.
+[06:19:59] [127.0.0.1][895c1eb7][ExtensionHostConnection] The client has reconnected.
+New EH opened, aborting shutdown
+[06:24:58] New EH opened, aborting shutdown
+[06:25:23] [127.0.0.1][78228435][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[06:25:24] [127.0.0.1][895c1eb7][ExtensionHostConnection] <38290> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[06:25:24] Last EH closed, waiting before shutting down
+Error: Unexpected SIGPIPE
+    at process.<anonymous> (/home/ubuntu/.vscode-server/bin/940b5f4bb5fa47866a54529ed759d95d09ee80be/out/bootstrap.js:5:614)
+    at process.emit (events.js:223:5)
+Got delay-shutdown request while in shutdown timeout, delaying
+[06:26:16] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[06:26:16] Cancelling previous shutdown timeout
+[06:26:18] [127.0.0.1][0b0d2c8c][ManagementConnection] New connection established.
+[06:26:18] [127.0.0.1][cc8c669f][ExtensionHostConnection] New connection established.
+[06:26:18] [127.0.0.1][cc8c669f][ExtensionHostConnection] <39825> Launched Extension Host Process.
+[06:26:19] Listing 0 persistent terminals, 0 total terminals
+[06:26:19] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/ubuntu/laravel/.vscode'
+[06:26:23] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+Got delay-shutdown request while in shutdown timeout, delaying
+[06:28:16] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[06:28:16] Cancelling previous shutdown timeout
+[06:28:18] [127.0.0.1][0b0d2c8c][ManagementConnection] The client has reconnected.
+New EH opened, aborting shutdown
+[06:33:16] New EH opened, aborting shutdown
+[06:45:36] [127.0.0.1][0b0d2c8c][ManagementConnection] The client has reconnected.
+[06:45:36] [127.0.0.1][cc8c669f][ExtensionHostConnection] The client has reconnected.
+[06:56:30] [127.0.0.1][0b0d2c8c][ManagementConnection] The client has reconnected.
+[06:56:30] [127.0.0.1][cc8c669f][ExtensionHostConnection] The client has reconnected.
+[07:32:08] [127.0.0.1][0b0d2c8c][ManagementConnection] The client has reconnected.
+[07:32:08] [127.0.0.1][cc8c669f][ExtensionHostConnection] The client has reconnected.
+[07:37:08] [127.0.0.1][0b0d2c8c][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[07:37:09] [127.0.0.1][cc8c669f][ExtensionHostConnection] <39825> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[07:37:09] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[07:37:55] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[07:37:55] Cancelling previous shutdown timeout
+[07:38:10] [127.0.0.1][92415328][ManagementConnection] New connection established.
+[07:38:11] [127.0.0.1][375eba12][ExtensionHostConnection] New connection established.
+[07:38:11] [127.0.0.1][375eba12][ExtensionHostConnection] <48038> Launched Extension Host Process.
+[07:38:17] Listing 0 persistent terminals, 0 total terminals
+[07:38:17] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/ubuntu/laravel/.vscode'
+[07:39:14] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+Got delay-shutdown request while in shutdown timeout, delaying
+[07:39:15] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[07:39:15] Cancelling previous shutdown timeout
+[07:39:21] [127.0.0.1][92415328][ManagementConnection] The client has reconnected.
+Got delay-shutdown request while in shutdown timeout, delaying
+[07:39:58] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[07:39:58] Cancelling previous shutdown timeout
+[07:40:05] [127.0.0.1][92415328][ManagementConnection] The client has reconnected.
+Got delay-shutdown request while in shutdown timeout, delaying
+[07:40:46] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[07:40:46] Cancelling previous shutdown timeout
+[07:40:54] [127.0.0.1][92415328][ManagementConnection] The client has reconnected.
+Got delay-shutdown request while in shutdown timeout, delaying
+[07:41:24] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[07:41:24] Cancelling previous shutdown timeout
+[07:41:24] [127.0.0.1][375eba12][ExtensionHostConnection] The client has reconnected.
+[07:41:25] [127.0.0.1][92415328][ManagementConnection] The client has reconnected.
+[07:41:46] [127.0.0.1][375eba12][ExtensionHostConnection] The client has reconnected.
+Got delay-shutdown request while in shutdown timeout, delaying
+[07:43:20] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[07:43:20] Cancelling previous shutdown timeout
+[07:43:21] [127.0.0.1][92415328][ManagementConnection] The client has reconnected.
+[07:43:21] [127.0.0.1][375eba12][ExtensionHostConnection] The client has reconnected.
+Got delay-shutdown request while in shutdown timeout, delaying
+[07:45:15] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[07:45:15] Cancelling previous shutdown timeout
+[07:45:19] [127.0.0.1][92415328][ManagementConnection] The client has reconnected.
+[07:45:19] [127.0.0.1][375eba12][ExtensionHostConnection] The client has reconnected.
+New EH opened, aborting shutdown
+[07:50:15] New EH opened, aborting shutdown
+[07:53:53] [127.0.0.1][92415328][ManagementConnection] The client has reconnected.
+[07:53:54] [127.0.0.1][375eba12][ExtensionHostConnection] The client has reconnected.
+[07:55:42] [127.0.0.1][92415328][ManagementConnection] The client has reconnected.
+[07:55:42] [127.0.0.1][375eba12][ExtensionHostConnection] The client has reconnected.
+[07:56:39] [127.0.0.1][92415328][ManagementConnection] The client has reconnected.
+[07:56:39] [127.0.0.1][375eba12][ExtensionHostConnection] The client has reconnected.
+[07:57:53] [127.0.0.1][92415328][ManagementConnection] The client has reconnected.
+[07:57:53] [127.0.0.1][375eba12][ExtensionHostConnection] The client has reconnected.
+[07:59:43] [127.0.0.1][92415328][ManagementConnection] The client has reconnected.
+[07:59:43] [127.0.0.1][375eba12][ExtensionHostConnection] The client has reconnected.
+[08:01:31] [127.0.0.1][92415328][ManagementConnection] The client has reconnected.
+[08:01:31] [127.0.0.1][375eba12][ExtensionHostConnection] The client has reconnected.
+[08:04:35] [127.0.0.1][92415328][ManagementConnection] The client has reconnected.
+[08:04:35] [127.0.0.1][375eba12][ExtensionHostConnection] The client has reconnected.
+[08:04:36] [127.0.0.1][92415328][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[08:04:37] [127.0.0.1][375eba12][ExtensionHostConnection] <48038> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[08:04:37] Last EH closed, waiting before shutting down
+Error: Unexpected SIGPIPE
+    at process.<anonymous> (/home/ubuntu/.vscode-server/bin/940b5f4bb5fa47866a54529ed759d95d09ee80be/out/bootstrap.js:5:614)
+    at process.emit (events.js:223:5)
+Got delay-shutdown request while in shutdown timeout, delaying
+[08:04:55] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[08:04:55] Cancelling previous shutdown timeout
+[08:04:59] [127.0.0.1][cdd61575][ManagementConnection] New connection established.
+[08:04:59] [127.0.0.1][609ef07a][ExtensionHostConnection] New connection established.
+[08:04:59] [127.0.0.1][609ef07a][ExtensionHostConnection] <52049> Launched Extension Host Process.
+[08:05:00] Listing 1 persistent terminals, 1 total terminals
+[08:05:00] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/ubuntu/laravel/.vscode'
+[08:05:04] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[08:05:42] [127.0.0.1][609ef07a][ExtensionHostConnection] The client has reconnected.
+Got delay-shutdown request while in shutdown timeout, delaying
+[08:05:43] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[08:05:43] Cancelling previous shutdown timeout
+[08:05:44] [127.0.0.1][cdd61575][ManagementConnection] The client has reconnected.
+New EH opened, aborting shutdown
+[08:10:43] New EH opened, aborting shutdown
+[08:15:33] [127.0.0.1][cdd61575][ManagementConnection] The client has reconnected.
+[08:15:35] [127.0.0.1][609ef07a][ExtensionHostConnection] The client has reconnected.
+[08:16:12] [127.0.0.1][cdd61575][ManagementConnection] The client has reconnected.
+[08:16:12] [127.0.0.1][609ef07a][ExtensionHostConnection] The client has reconnected.
+[08:17:38] [127.0.0.1][cdd61575][ManagementConnection] The client has reconnected.
+[08:17:38] [127.0.0.1][609ef07a][ExtensionHostConnection] The client has reconnected.
+[08:20:48] [127.0.0.1][cdd61575][ManagementConnection] The client has reconnected.
+[08:20:48] [127.0.0.1][609ef07a][ExtensionHostConnection] The client has reconnected.
+[08:35:07] [127.0.0.1][cdd61575][ManagementConnection] The client has reconnected.
+[08:35:07] [127.0.0.1][609ef07a][ExtensionHostConnection] The client has reconnected.
+[08:41:06] [127.0.0.1][cdd61575][ManagementConnection] The client has reconnected.
+[08:41:06] [127.0.0.1][609ef07a][ExtensionHostConnection] The client has reconnected.
+[08:41:32] Installing extension: onecentlin.laravel-blade
+[08:41:32] Downloaded extension: onecentlin.laravel-blade undefined
+[08:41:34] Extracted extension to /home/ubuntu/.vscode-server/extensions/.onecentlin.laravel-blade-1.25.0: onecentlin.laravel-blade
+[08:41:34] Renamed to /home/ubuntu/.vscode-server/extensions/onecentlin.laravel-blade-1.25.0
+[08:41:34] Installation completed. onecentlin.laravel-blade
+[08:41:34] Extensions installed successfully: onecentlin.laravel-blade
+[08:53:34] [127.0.0.1][cdd61575][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+Error: Unexpected SIGPIPE
+    at process.<anonymous> (/home/ubuntu/.vscode-server/bin/940b5f4bb5fa47866a54529ed759d95d09ee80be/out/bootstrap.js:5:614)
+    at process.emit (events.js:223:5)
+[11:53:26] [127.0.0.1][609ef07a][ExtensionHostConnection] <52049> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[11:53:26] Last EH closed, waiting before shutting down
+[11:53:34] [127.0.0.1][cdd61575][ManagementConnection] The reconnection grace time of 3h has expired, so the connection will be disposed.
+Last EH closed, shutting down
+[11:58:26] Last EH closed, shutting down

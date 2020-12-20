@@ -1,0 +1,79 @@
+
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+IP Address: 172.31.21.201
+IP Address: 172.18.0.1
+Extension host agent listening on 41349
+
+
+[08:34:48] Extension host agent started.
+[08:34:50] [127.0.0.1][3d65d007][ManagementConnection] New connection established.
+[08:34:50] [127.0.0.1][f5ed9edf][ExtensionHostConnection] New connection established.
+bash: cannot set terminal process group (-1): Inappropriate ioctl for device
+bash: no job control in this shell
+[08:34:50] [127.0.0.1][f5ed9edf][ExtensionHostConnection] <2995> Launched Extension Host Process.
+[08:35:20] [127.0.0.1][3d65d007][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[08:35:21] [127.0.0.1][f5ed9edf][ExtensionHostConnection] <2995> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[08:35:21] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[08:35:31] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[08:35:31] Cancelling previous shutdown timeout
+[08:35:32] [127.0.0.1][a94a5e3f][ManagementConnection] New connection established.
+[08:35:32] [127.0.0.1][d9083fd4][ExtensionHostConnection] New connection established.
+[08:35:32] [127.0.0.1][d9083fd4][ExtensionHostConnection] <3159> Launched Extension Host Process.
+[08:35:36] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+New EH opened, aborting shutdown
+[08:40:31] New EH opened, aborting shutdown
+[08:42:15] [127.0.0.1][a94a5e3f][ManagementConnection] The client has reconnected.
+[08:42:15] [127.0.0.1][d9083fd4][ExtensionHostConnection] The client has reconnected.
+[08:47:27] Listing 0 persistent terminals, 0 total terminals
+[08:52:59] [127.0.0.1][a94a5e3f][ManagementConnection] The client has reconnected.
+[08:52:59] [127.0.0.1][d9083fd4][ExtensionHostConnection] The client has reconnected.
+[08:56:22] [127.0.0.1][a94a5e3f][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+Error: Unexpected SIGPIPE
+    at process.<anonymous> (/home/ubuntu/.vscode-server/bin/e5a624b788d92b8d34d1392e4c4d9789406efe8f/out/bootstrap.js:5:377)
+    at process.emit (events.js:223:5)
+[08:59:56] [127.0.0.1][a94a5e3f][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[08:59:56] [127.0.0.1][77bc92f3][ManagementConnection] New connection established.
+[08:59:56] [127.0.0.1][aacc84e6][ExtensionHostConnection] New connection established.
+[08:59:56] [127.0.0.1][aacc84e6][ExtensionHostConnection] <4190> Launched Extension Host Process.
+[08:59:59] Listing 1 persistent terminals, 1 total terminals
+[09:00:08] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[09:00:31] [127.0.0.1][77bc92f3][ManagementConnection] The client has reconnected.
+[09:00:31] Replaying 36616 chars and 5 size events.
+[09:01:07] [127.0.0.1][77bc92f3][ManagementConnection] The client has reconnected.
+[09:01:07] [127.0.0.1][aacc84e6][ExtensionHostConnection] The client has reconnected.
+[09:03:26] [127.0.0.1][4eb91d2c][ManagementConnection] New connection established.
+[09:03:26] [127.0.0.1][edc75576][ExtensionHostConnection] New connection established.
+[09:03:26] [127.0.0.1][edc75576][ExtensionHostConnection] <4694> Launched Extension Host Process.
+[09:03:28] Listing 1 persistent terminals, 1 total terminals
+[09:03:29] Replaying 36720 chars and 6 size events.
+[09:03:32] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[09:04:11] [127.0.0.1][edc75576][ExtensionHostConnection] The client has reconnected.
+[09:04:56] [127.0.0.1][a94a5e3f][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+[09:04:57] [127.0.0.1][d9083fd4][ExtensionHostConnection] <3159> Extension Host Process exited with code: 0, signal: null.
+[09:11:22] [127.0.0.1][4eb91d2c][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+Error: Unexpected SIGPIPE
+    at process.<anonymous> (/home/ubuntu/.vscode-server/bin/e5a624b788d92b8d34d1392e4c4d9789406efe8f/out/bootstrap.js:5:377)
+    at process.emit (events.js:223:5)
+[09:19:49] [127.0.0.1][77bc92f3][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+Error: Unexpected SIGPIPE
+    at process.<anonymous> (/home/ubuntu/.vscode-server/bin/e5a624b788d92b8d34d1392e4c4d9789406efe8f/out/bootstrap.js:5:377)
+    at process.emit (events.js:223:5)
+[12:11:15] [127.0.0.1][edc75576][ExtensionHostConnection] <4694> Extension Host Process exited with code: 0, signal: null.
+[12:11:22] [127.0.0.1][4eb91d2c][ManagementConnection] The reconnection grace time of 3h has expired, so the connection will be disposed.
+[12:19:42] [127.0.0.1][aacc84e6][ExtensionHostConnection] <4190> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[12:19:42] Last EH closed, waiting before shutting down
+[12:19:49] [127.0.0.1][77bc92f3][ManagementConnection] The reconnection grace time of 3h has expired, so the connection will be disposed.
+Last EH closed, shutting down
+[12:24:42] Last EH closed, shutting down

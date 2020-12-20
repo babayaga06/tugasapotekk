@@ -1,0 +1,42 @@
+[2020-12-19 07:35:01.944] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2020-12-19 07:35:01.944] [remoteagent] [info] Extension host agent started.
+[2020-12-19 07:35:03.535] [remoteagent] [info] [127.0.0.1][be26bd31][ManagementConnection] New connection established.
+[2020-12-19 07:35:03.544] [remoteagent] [info] [127.0.0.1][686c58be][ExtensionHostConnection] New connection established.
+[2020-12-19 07:35:03.667] [remoteagent] [info] [127.0.0.1][686c58be][ExtensionHostConnection] <99899> Launched Extension Host Process.
+[2020-12-19 07:35:04.189] [remoteagent] [info] Listing 0 persistent terminals, 0 total terminals
+[2020-12-19 07:35:56.494] [remoteagent] [info] [127.0.0.1][be26bd31][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-12-19 07:35:57.515] [remoteagent] [info] [127.0.0.1][686c58be][ExtensionHostConnection] <99899> Extension Host Process exited with code: 0, signal: null.
+[2020-12-19 07:35:57.515] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2020-12-19 07:36:19.591] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2020-12-19 07:36:19.591] [remoteagent] [info] Cancelling previous shutdown timeout
+[2020-12-19 07:36:21.330] [remoteagent] [info] [127.0.0.1][9a49edeb][ManagementConnection] New connection established.
+[2020-12-19 07:36:21.333] [remoteagent] [info] [127.0.0.1][b65b7b72][ExtensionHostConnection] New connection established.
+[2020-12-19 07:36:21.336] [remoteagent] [info] [127.0.0.1][b65b7b72][ExtensionHostConnection] <100150> Launched Extension Host Process.
+[2020-12-19 07:36:22.106] [remoteagent] [info] Listing 0 persistent terminals, 0 total terminals
+[2020-12-19 07:36:22.119] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/ubuntu/laravel/.vscode'
+[2020-12-19 07:36:25.412] [remoteagent] [error] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[2020-12-19 07:41:19.592] [remoteagent] [info] New EH opened, aborting shutdown
+[2020-12-19 09:56:15.679] [remoteagent] [info] [127.0.0.1][97470201][ManagementConnection] New connection established.
+[2020-12-19 09:56:15.680] [remoteagent] [info] [127.0.0.1][191a0e2a][ExtensionHostConnection] New connection established.
+[2020-12-19 09:56:15.683] [remoteagent] [info] [127.0.0.1][191a0e2a][ExtensionHostConnection] <118418> Launched Extension Host Process.
+[2020-12-19 09:56:16.438] [remoteagent] [info] Listing 1 persistent terminals, 1 total terminals
+[2020-12-19 09:56:16.443] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/ubuntu/laravel/.vscode'
+[2020-12-19 09:56:20.916] [remoteagent] [error] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[2020-12-19 09:56:22.476] [remoteagent] [info] Replaying 2391 chars and 1 size events.
+[2020-12-19 09:59:57.709] [remoteagent] [info] [127.0.0.1][9a49edeb][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2020-12-19 11:12:43.633] [remoteagent] [info] [127.0.0.1][97470201][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2020-12-19 12:59:49.663] [remoteagent] [info] [127.0.0.1][b65b7b72][ExtensionHostConnection] <100150> Extension Host Process exited with code: 0, signal: null.
+[2020-12-19 12:59:57.709] [remoteagent] [info] [127.0.0.1][9a49edeb][ManagementConnection] The reconnection grace time of 3h has expired, so the connection will be disposed.
+[2020-12-19 14:12:35.279] [remoteagent] [info] [127.0.0.1][191a0e2a][ExtensionHostConnection] <118418> Extension Host Process exited with code: 0, signal: null.
+[2020-12-19 14:12:35.280] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2020-12-19 14:12:43.633] [remoteagent] [info] [127.0.0.1][97470201][ManagementConnection] The reconnection grace time of 3h has expired, so the connection will be disposed.
+[2020-12-19 14:17:35.280] [remoteagent] [info] Last EH closed, shutting down
