@@ -139,3 +139,23 @@ git remote add origin git@github.com:babayaga06/tugas-apotek.git
 git push -u origin main
 git push -u origin master
 exit
+git init
+git add .
+git status
+git commit -m "tugas apotek"
+git branch -M main
+git remote -v
+git remote remove origin
+git remote add origin git@github.com:babayaga06/tugasapootek.git
+git push -u origin master
+git push -u origin maib
+git push -u origin main
+git inint
+git init
+git add .
+git status
+git commit -m "tugas apotek\"
+cd
+exit
+clear
+\
